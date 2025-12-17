@@ -1,5 +1,5 @@
-import sounddevice as sd
 import numpy as np
+import sounddevice as sd
 
 fs = 16000  # Sample rate
 seconds = 3  # Duration of recording
